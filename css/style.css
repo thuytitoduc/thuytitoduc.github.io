@@ -1,0 +1,40 @@
+body {
+    background-color: #F4C9C9;
+    font-family: Helvetica;
+}
+
+.container {
+    width: 100%;
+}
+
+.headerImg {
+    width: 100%;
+}
+
+.divSocialIcon {
+    background-color: white;
+}
+.socialIcon {
+    width: 100%;
+    margin: auto;
+    font-size: 10px;
+}
+
+.singleBox {
+    text-align: center;
+    padding : 10px;
+    border: 2px solid white;
+    width: 80%;
+    margin: 10px auto 0px auto;
+    font-size: 20px;
+    color: black;
+}
+
+.singleBox:hover {
+    background-color: white;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+}
