@@ -20,11 +20,16 @@ body {
     font-size: 10px;
 }
 
+.socialIcon > .col-xs-3 {
+    text-align: center;
+    font-size: 11px;
+}
+
 .singleBox {
     text-align: center;
     padding : 10px;
     border: 2px solid white;
-    width: 80%;
+    width: 95%;
     margin: 10px auto 0px auto;
     font-size: 20px;
     color: black;
